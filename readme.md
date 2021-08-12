@@ -1,4 +1,4 @@
-# Simple blog application using react js with laravel api
+# An Application using react js with laravel api For Products CRUD
 
 
 ## Features
