@@ -60,5 +60,4 @@ Screenshot :
 ![alt text](./public/assets/images/screenshot/blog.png)
 ![alt text](./public/assets/images/screenshot/backup.png)
 ![alt text](./public/assets/images/screenshot/home.png)
-![alt text](./public/assets/images/screenshot/blog_front.png)
-![alt text](./public/assets/images/screenshot/details.png)
+
